@@ -1,4 +1,4 @@
-Hotel Reservation Management System
+# Hotel Reservation Management System
 The Hotel Reservation Management System is a web-based application designed to streamline the process of booking and managing hotel reservations. This project provides an intuitive interface for customers to reserve rooms and for administrators to manage hotel operations efficiently.
 
 # Features
